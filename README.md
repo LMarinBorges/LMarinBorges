@@ -9,19 +9,29 @@
 
 ### Thanks for landing on my profile!
 
-I'm a full-stack developer turning a life-long hobby into a full-time profession.
-
-With a few years of freelance experience, and a strong drive to learn things for myself, I've already gathered knowledge on the most important stages of a project's lifetime; from the first commit on a repository, to the setup of development tools and dependencies, CI with GitHub Actions, backend and frontend development, containerization with Docker, and finally deployment to cloud services such as [Fly.io](https://fly.io) or [Supabase](https://supabase.com/).
-
 ## About me
 
-- 📝 Currently working on... a new portfolio! Coming soon to a profile near you...
+I'm a full-stack developer turning a life-long hobby into a full-time profession.
+
+With a couple of years of freelance experience, and a strong drive to learn things through my own means, I've always been someone who can easily embrace new technologies with open arms, trying my best to learn their ins and outs to improve the quality of my work.
+
+I am most proficient building applications using React, Node.js, or Rust, and I can handle both SQL databases (through Prisma, Sequelize, or raw SQL) and MongoDB (through Mongoose or the native driver). However, like stated above, I will learn any technology if there is a requirement for me to do so. New technologies fascinate me, and I am in no way afraid of jumping out of my comfort zone to master them.
+
+When it comes down to DevOps, I can handle deployment with Docker, Continuous Integration and Continuous Deployment (CI/CD) through GitHub Actions, and deployment to container-based cloud services such as [Fly](https://fly.io).
+
+I have in-depth knowledge about the Linux operating system, after years of using it as my day-to-day OS, and can easily handle my way around Bash or Shell Scripting, Fish Shell scripts, `systemd` services, and the `apt`, `dnf`, and `pacman` package managers.
+
+**I'm currently looking for employment.** If you're interested, you may contact me through [**e-mail**](mailto:liam.marin03926@protonmail.com) or through my [LinkedIn profile](https://www.linkedin.com/in/lmarin03/).
+
+## My personal life
+
+- 📝 Currently working on some personal projects... Coming soon to a portfolio near you.
 
 - 🌱 Currently learning [Next.js](https://nextjs.org/), but looking forward to getting into [Angular](https://angular.io/) and [NestJS](https://nestjs.com/).
 
-- 🦀 Ask me about Rust, TypeScript, or type safety in general. JavaScript is great, but type safety is better!
+- 🦀 Ask me about Rust, TypeScript, or type safety in general. Dynamic typing and strong typing aren't mutually exclusive!
 
-- 🐧 Linux enthusiast since picking up Ubuntu at 15 years old. My favorite distributions are [Fedora](https://fedoraproject.org/) and [Debian](https://www.debian.org/), but I am also familiar with [Arch Linux](https://archlinux.org/).
+- 🐧 Linux enthusiast since picking up Ubuntu half a decade ago. My favorite distributions are [Fedora](https://fedoraproject.org/) and [Debian](https://www.debian.org/), but I am also familiar with [Arch Linux](https://archlinux.org/).
 
 - 🎸 I love alternative rock. Do you love alternative rock? My personal picks are [Arcade Fire](https://www.youtube.com/watch?v=5Euj9f3gdyM) and [The War On Drugs](https://www.youtube.com/watch?v=xWDVFLDnv74).
 
